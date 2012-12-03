@@ -8,10 +8,13 @@
 
 ## 実行
 Delphiでコンパイル後、コンソールから実行します。
+
     $ MixiGraphAPI.exe
 
 
-## 仕様ライブラリ
+## 使用ライブラリ
 Indy http://www.indyproject.org/
+
 Indy OpenSSL 0.9.8h IntraWeb Edition http://indy.fulgan.com/SSL/
+
 superobject http://code.google.com/p/superobject/
